@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(111, 245, 255);
+    text-align: center;
+    font-size: 40px;
+}
+input{
+    font-size: 30px;
+    padding: 10px 20px;
+}
+button{
+    padding: 10px 20px;
+    font-size:23px;
+    background: rgb(94,255,210);
+    background: linear-gradient(117deg, rgba(94,255,210,1) 0%, rgba(1,181,115,1) 100%);;
+    border: none;
+    border-radius: 10px;
+}
